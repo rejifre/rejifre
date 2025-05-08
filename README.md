@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rejifre
-- 👀 I’m interested in front end and 3D.
-- 🌱 I’m currently learning front end.
+- 👀 I’m interested in front-end and 3D.
+- 🌱 I’m currently learning front-end.
 - 📫 How to reach me ...
 
 <!---
